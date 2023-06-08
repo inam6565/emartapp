@@ -62,8 +62,15 @@ Look for the localhost ip address
 
     ip addr show
     
+    
+![My Image](images/t.png)
+    
+    
 Go to browser and enter
 
     http://<you machine ip address>:80
     
 Your application is running now. Cheers!!!
+
+
+![My Image](images/t.png)
