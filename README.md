@@ -73,4 +73,4 @@ Go to browser and enter
 Your application is running now. Cheers!!!
 
 
-![My Image](images/t.png)
+![My Image](images/y.png)
