@@ -33,6 +33,9 @@ Clone the repository
   
     git clone  https://github.com/inam6565/emartapp.git
     
+![My Image](images/e.png)
+
+
 Go into the repository emart app
     
     cd emartapp/
@@ -46,9 +49,14 @@ Run the docker-compose.yml. It will take some time. because we are building imag
 ![My Image](images/w.png)
 
 
+
 Now images are available and containers are running
 
     docker ps
+
+
+
+
 
 Look for the localhost ip address 
 
