@@ -55,7 +55,7 @@ Now images are available and containers are running
     docker ps
 
 
-
+![My Image](images/r.png)
 
 
 Look for the localhost ip address 
