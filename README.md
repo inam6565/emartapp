@@ -33,7 +33,7 @@ Clone the repository
   
     git clone  https://github.com/inam6565/emartapp.git
     
-![My Image](images/eqw.png)
+![My Image](images/e.png)
 
 
 Go into the repository emart app
