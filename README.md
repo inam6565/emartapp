@@ -43,6 +43,9 @@ Run the docker-compose.yml. It will take some time. because we are building imag
 
     docker-compose up -d
     
+![My Image](images/w.png)
+
+
 Now images are available and containers are running
 
     docker ps
