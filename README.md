@@ -74,3 +74,9 @@ Your application is running now. Cheers!!!
 
 
 ![My Image](images/y.png)
+
+
+
+Clean Up
+
+    docker-compose down
